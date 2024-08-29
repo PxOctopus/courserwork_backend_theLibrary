@@ -20,7 +20,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: ${POSTGRE_URL}
     username: postgres
-    password: roo
+    password: root
   jpa:
     hibernate:
       ddl-auto: update
